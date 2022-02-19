@@ -1,5 +1,6 @@
 test from folder 1
 
+<<<<<<< HEAD
 test 1 from folder
 test 2 from folder
 test 3 from folder
@@ -15,3 +16,10 @@ test 12 from folder
 test 13 from folder
 
 push dari main ke branch origin apnan
+=======
+test 1 from apnan 
+test 2 from apnan
+test 3 from apnan
+test 3 from apnan
+test 4 from apnan
+>>>>>>> 32845d8801446feefc96ba40894531530d3444d1
